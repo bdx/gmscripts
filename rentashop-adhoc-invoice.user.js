@@ -6,7 +6,6 @@
 // @version     1
 // @grant       none
 // @require     https://github.com/devongovett/pdfkit/releases/download/v0.7.1/pdfkit.js
-// @require     https://github.com/devongovett/pdfkit/releases/download/v0.7.1/pdfkit.js.map
 // @require     https://github.com/devongovett/blob-stream/releases/download/v0.1.3/blob-stream.js
 // ==/UserScript==
 
